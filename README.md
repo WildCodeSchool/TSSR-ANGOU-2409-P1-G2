@@ -4,14 +4,12 @@ Sécurisation de mot de passe
 ### Membres
 Théophile Tristan Bastien
 
-### Rôles semaine 1
-Product Owner : *Tristan*
-Scrum Master : *Théophile*
-Techos : *Bastien*
+| Rôle | Semaine 1 | Semaine 2 | Semaine 3 |
+| :-: |:-: |:-: |:-: |
+| __Product Owner__ | *Tristan* | | |
+| __Scrum Master__ | *Théophile* | | |
+| __Techos__ | *Bastien* | | |
 
-### Rôles semaine 2
-
-### Rôles semaine 3
 
 ## *__Présentation du projet__*
 L'objectif de ce projet est de monté un serveur, sur lequel un client sera connecté. 
@@ -21,7 +19,7 @@ Ensuite, nous allons utilisé un logiciel pour tester la robutesse d'un mot de p
 | Problèmes rencontrés | Solutions apportées |
 | :-: |:-:   |
 | CRTL+ALT+SUPPR sur une VM windows serveur | Menu "Entrée" puis "Executer CTRL+ALT+SUPPR" |
-| Utilisation de Hashcat | | 
+| Installation de Hashcat | | 
 
 
 ## *__Tests réalisés__*
