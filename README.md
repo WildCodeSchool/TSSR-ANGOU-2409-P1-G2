@@ -1,6 +1,8 @@
 # TSSR Groupe 2 - Sujet 3
 Sécurisation de mot de passe
 
+<HR>
+
 ### Membres
 Théophile Tristan Bastien
 
@@ -10,12 +12,30 @@ Théophile Tristan Bastien
 | __Scrum Master__ | *Théophile* | | |
 | __Techos__ | *Bastien* | | |
 
+<details>
+  
+<summary><strong><front size="+5">Présentation du projet et objectifs</front></strong></summary>
 
-## *__Présentation du projet et objectifs__*
-L'objectif de ce projet est de monté un serveur, sur lequel un client sera connecté. 
-Ensuite, nous allons utilisé un logiciel pour tester la robutesse d'un mot de passe utilisateur pour ainsi pouvoir y repérer les failles et le renforcer.
+- Monter un serveur
+  
+- Connecter un ou plusieurs client(s)
 
-## *__Introduction__*
+- Tester la robustesse du mot de passe à l'aide d'une attaque par dictionnaire
+ 
+
+
+</details>
+
+<details>
+  <summary><strong> Introduction </summary>
+
+  
+  </details>
+
+
+
+
+<HR>
 
 ## *__Choix techniques__*
 Nous avons utilisé un serveur windows 2022 avec des clients Linux Ubuntu 24.04 LTS
