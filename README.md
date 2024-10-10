@@ -11,18 +11,25 @@ Théophile Tristan Bastien
 | __Techos__ | *Bastien* | | |
 
 
-## *__Présentation du projet__*
+## *__Présentation du projet et objectifs__*
 L'objectif de ce projet est de monté un serveur, sur lequel un client sera connecté. 
-Ensuite, nous allons utilisé un logiciel pour tester la robutesse d'un mot de passe utilisateur.
+Ensuite, nous allons utilisé un logiciel pour tester la robutesse d'un mot de passe utilisateur pour ainsi pouvoir y repérer les failles et le renforcer.
 
+## *__Introduction__*
 
+## *__Choix techniques__*
+Nous avons utilisé un serveur windows 2022 avec des clients Linux Ubuntu 24.04 LTS
+
+## *__Tests réalisés__*
 | Problèmes rencontrés | Solutions apportées |
 | :-: |:-:   |
 | CRTL+ALT+SUPPR sur une VM windows serveur | Menu "Entrée" puis "Executer CTRL+ALT+SUPPR" |
 | Installation de Hashcat | | 
 
 
-## *__Tests réalisés__*
+## *__Suggestions d'amélioratons__*
+
+
 
 
 
