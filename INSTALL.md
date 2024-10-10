@@ -1,6 +1,6 @@
 # Documentation administrateur
 
-### Installation des postes
+### *Installation des postes*
 
 #### Installation d'une VM client Ubuntu
 
@@ -8,7 +8,9 @@
 
 #### Connection du client au serveur
 
-### Qu'est ce que Hashcat ?
+### *Chiffrer un fichier zippé*
+
+### *Qu'est ce que Hashcat ?*
 
 #### Installation d'HashCat
 
