@@ -44,7 +44,7 @@ Nous avons utilisé un serveur windows 2022 avec des clients Linux Ubuntu 24.04 
 | Problèmes rencontrés | Solutions apportées |
 | :-: |:-:   |
 | CRTL+ALT+SUPPR sur une VM windows serveur | Menu "Entrée" puis "Executer CTRL+ALT+SUPPR" |
-| Installation de Hashcat | | 
+| Installation de Hashcat | Installer John-The-Ripper | 
 
 
 ## *__Suggestions d'amélioratons__*
