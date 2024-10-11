@@ -8,9 +8,9 @@ Théophile Tristan Bastien
 
 | Rôle | Semaine 1 | Semaine 2 | Semaine 3 |
 | :-: |:-: |:-: |:-: |
-| __Product Owner__ | *Tristan* | | |
-| __Scrum Master__ | *Théophile* | | |
-| __Techos__ | *Bastien* | | |
+| __Product Owner__ | *Tristan* | *Théophile* | *Bastien* |
+| __Scrum Master__ | *Théophile* | *Bastien* | *Tristan* |
+| __Techos__ | *Bastien* | *Tristan* | *Théophile* |
 
 <details>
   
