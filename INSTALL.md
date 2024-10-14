@@ -8,7 +8,7 @@
 
 ![Y](https://i.imgur.com/IINxXgi.png)
 
-Choisir l'OS et la version souhaitée.
+* Choisir l'OS et la version souhaitée.
 
 
 
