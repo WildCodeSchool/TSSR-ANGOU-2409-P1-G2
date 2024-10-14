@@ -29,7 +29,7 @@
 
    ![B](https://i.imgur.com/UHpwtwR.png)
 
- * Choisir l'image de l'OS
+ * Choisir l'image du disque (ISO)
 
    ![B](https://i.imgur.com/vbcgBsZ.png)
 
