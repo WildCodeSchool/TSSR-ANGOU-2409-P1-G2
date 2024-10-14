@@ -34,6 +34,24 @@
    ![B](https://i.imgur.com/vbcgBsZ.png)
 
    ![C](https://i.imgur.com/oqviOma.png)
+
+  * Installation de l'OS
+
+    ![D](https://i.imgur.com/kzYhoKF.png) 
+
+  * Prise en compte des preferences
+    
+   ![H](https://i.imgur.com/EujujhN.png)
+
+  * Effacer tout contenu du disque pour installer l’OS
+
+    ![G](https://i.imgur.com/0VnvBi9.png)
+
+  *  Création de l’utilisateur (Le mot de passe servivra pour toute confirmation admin)
+
+   ![G](https://i.imgur.com/HM5Zfup.png)
+
+    
 </details>
 
 #### Installation d'une VM serveur windows
