@@ -58,7 +58,7 @@
 
 #### Connection du client au serveur
 
-### *Chiffrer un )fichier zippé*
+### *Chiffrer un fichier zippé*
 
 ### *Qu'est ce que Hashcat ?*
 
