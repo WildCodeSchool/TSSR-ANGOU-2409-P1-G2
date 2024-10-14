@@ -20,8 +20,15 @@
 
 
  * Determination de l'espace de stockage
+   
 
    ![A](https://i.imgur.com/PSlvETM.png)
+
+
+ * Configuration de la VM
+
+   ![B](https://i.imgur.com/UHpwtwR.png)
+
 </details>
 
 #### Installation d'une VM serveur windows
