@@ -28,6 +28,8 @@ Théophile Tristan Bastien
 
 </details>
 
+<HR>
+
 <details>
   <summary><strong> Introduction </summary>
     
@@ -38,7 +40,41 @@ Théophile Tristan Bastien
   
   </details>
 
+<HR>
 
+<details><summary>Tâches réalisées<strong></strong></summary>
+<HR>
+
+- Semaine 1
+  
+| Tâches | Réalisation | Description |
+| :-: | :-: | :-: |
+| Installer le client Ubuntu | Fait | Client fonctionnel |
+| Squelette de la documentation générale | Fait | Plan établi |
+| Squelette de la documention administrateur | Fait | Plan établi |
+| Création du serveur de fichier | Non fait | Report S2 cause documentation |
+
+<HR>
+
+- Semaine 2 
+
+| Tâches | Réalisation | Description |
+| :-: | :-: | :-: |
+| Création du serveur de fichier | | 
+| Squelette de la documentation utilisateur | |
+| Connection de la VM au serveur | |
+| Continuité des documentations | | 
+
+
+<HR>
+
+- Semaine 3
+
+| Tâches | Réalisation | Description |
+| :-: | :-: | :-: |
+
+
+</details>
 
 
 <HR>
