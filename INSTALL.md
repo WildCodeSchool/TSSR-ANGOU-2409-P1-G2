@@ -9,8 +9,14 @@
  
 ![x](https://i.imgur.com/6WUTuYD.png)
 
+
 ![Y](https://i.imgur.com/IINxXgi.png)
 
+
+ * Definition des ressources à allouer
+   
+
+![z](https://i.imgur.com/KR0v3Bd.png)
 
 
 
