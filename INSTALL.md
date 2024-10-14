@@ -1,9 +1,13 @@
 # Documentation administrateur
 
 ### *Installation des postes*
-
+<details>
 <summary><strong> Installation d'une VM client Ubuntu </strong></summary>
 
+
+
+
+</details>
 
 #### Installation d'une VM serveur windows
 
