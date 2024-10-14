@@ -29,6 +29,11 @@
 
    ![B](https://i.imgur.com/UHpwtwR.png)
 
+ * Choisir l'image de l'OS
+
+   ![B](https://i.imgur.com/vbcgBsZ.png)
+
+   ![C](https://i.imgur.com/oqviOma.png)
 </details>
 
 #### Installation d'une VM serveur windows
