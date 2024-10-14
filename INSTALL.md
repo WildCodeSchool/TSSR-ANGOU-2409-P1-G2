@@ -2,7 +2,8 @@
 
 ### *Installation des postes*
 
-#### Installation d'une VM client Ubuntu
+<summary><strong> Installation d'une VM client Ubuntu </strong></summary>
+
 
 #### Installation d'une VM serveur windows
 
