@@ -4,11 +4,12 @@
 <details>
 <summary><strong> Installation d'une VM client Ubuntu </strong></summary>
   
+ * Choisir l'OS et la version souhaitée.
+ 
 ![x](https://i.imgur.com/6WUTuYD.png)
 
 ![Y](https://i.imgur.com/IINxXgi.png)
 
-* Choisir l'OS et la version souhaitée.
 
 
 
