@@ -19,7 +19,9 @@
 ![z](https://i.imgur.com/KR0v3Bd.png)
 
 
+ * Determination de l'espace de stockage
 
+   ![A](https://i.imgur.com/PSlvETM.png)
 </details>
 
 #### Installation d'une VM serveur windows
