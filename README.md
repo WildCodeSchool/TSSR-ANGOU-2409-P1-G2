@@ -4,7 +4,9 @@
 <HR>
 
 ### Membres
-Théophile Tristan Bastien
+- Théophile
+- Tristan
+- Bastien
 
 | Rôle | Semaine 1 | Semaine 2 | Semaine 3 |
 | :-: |:-: |:-: |:-: |
