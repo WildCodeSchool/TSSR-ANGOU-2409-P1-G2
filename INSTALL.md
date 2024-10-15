@@ -2,8 +2,9 @@
 
 ### *Installation des postes*
 <details>
+  <HR>
 <summary><strong> Installation d'une VM client Ubuntu </strong></summary>
-
+<HR>
   
   * Choisir l'OS et la version souhaitée.
  
@@ -54,7 +55,32 @@
     
 </details>
 
-#### Installation d'une VM serveur windows
+<details>
+  <summary><strong>Configuration de la VM serveur Windows</strong></summary>
+<HR>
+  
+### Configuration de l'IP
+  
+  ![Propriétéethe](https://i.imgur.com/LnzFb3R.png)
+
+  - Clique droit sur Ethernet -> Propriétés
+
+ ![Propriété](https://i.imgur.com/jOBHkY0.png)
+ 
+ - Sélectionner "Propriétés" de nouveau.
+
+ ![ipv4](https://i.imgur.com/2hphSeT.png)
+ 
+ -  Cocher "Protocole internet version 4"
+
+ ![tapeip](https://i.imgur.com/LumP4xV.png)
+
+ - Renseigner l'adresse IPv4 du serveur (ici 172.16.10.10 avec masque de sous-réseau 255.255.255.0)
+<HR>
+
+
+
+</details>
 
 #### Connection du client au serveur
 
