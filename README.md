@@ -62,9 +62,9 @@
 
 | Tâches | Réalisation | Description |
 | :-: | :-: | :-: |
-| Création du serveur de fichier | | 
+| Création du serveur de fichier | Fait | Serveur fonctionnel |
 | Squelette de la documentation utilisateur | |
-| Connection de la VM au serveur | |
+| Connection de la VM au serveur | Fait | Partage de fichier entre les deux VM |
 | Continuité des documentations | | 
 
 
