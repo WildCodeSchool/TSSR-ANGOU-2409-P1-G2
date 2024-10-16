@@ -1,4 +1,4 @@
-# Documentation administrateur
+<div align="center"><h1>Documentation administrateur</h1></div>
 <details><summary>Prérecquis</summary>
 
 Les prérecquis sont annoncés au début de chaque étape.
