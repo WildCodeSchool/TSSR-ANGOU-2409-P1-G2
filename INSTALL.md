@@ -118,12 +118,42 @@ __Redémarrer la machine et c'est terminé !__
 <HR> 
 </details>
 
-#### Connection du client au serveur
+<details><summary><strong>Connection du client au serveur</strong></summary>
+<HR>
+  
+### Prérecquis
+- Avoir un client fonctionnel
+- Avoir un serveur fonctionnel (L'applicatif SAMBA d'installer)
+- Être connecté sur le même réseau
+- Avoir les additions invités d'installer (dans le cadre d'une VM)
+<HR>
+
+#### Installation de Samba sur client Ubuntu
+
+Dans le terminal, taper la commande suivante : 
+```bash
+sudo apt install samba
+```
+![samba](https://i.imgur.com/hjxMyLv.png)
+
+Enfin, redémarrer la machine et retaper la commande dans le terminal afin de vérifier si l'installation est confirmer.
+<HR>
+
+Une fois Samba d'installer, tentons de nous connecter au serveur.
+
+- Ouvrir le gestionnaire de fichier et se diriger vers *Autres emplacements*
+
+![serv](https://i.imgur.com/KgWXWWF.png)
+
+- Dans l'emplacement du bas, saisir l'adresse du serveur sous le format "smb://ton_adresse_ip/ (ici 172.16.10.10)
+
+ ![servadr](https://i.imgur.com/RWc2yR2.png)
+
+- Renseigner le nom de domaine ainsi que le nom d'utilisateur et le mot de passe (Ici Administrateur avec Azerty1* comme mot de passe)
+
+![connec](https://i.imgur.com/KN0Xqz3.png)
+
+- Nous voilà connecter au serveur et avons l'accès aux fichiers !
 
 ### *Chiffrer un fichier zippé*
 
-### *Qu'est ce que Hashcat ?*
-
-#### Installation d'HashCat
-
-#### Utilisation d'HashCat pour tester la robustesse d'un mot de passe utilisateur
