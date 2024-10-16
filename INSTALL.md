@@ -1,4 +1,9 @@
 # Documentation administrateur
+<details><summary>Prérecquis</summary>
+
+Les prérecquis sont annoncés au début de chaque étape.
+
+</details>
 
 ### *Installation des postes*
 <details>
