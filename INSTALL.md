@@ -7,7 +7,6 @@ Les prérecquis sont annoncés au début de chaque étape.
 
 ### *Installation des postes*
 <details>
-  <HR>
 <summary><strong> Installation d'une VM client Ubuntu </strong></summary>
 <HR>
   
