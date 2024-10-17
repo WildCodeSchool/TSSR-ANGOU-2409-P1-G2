@@ -14,6 +14,14 @@ Les prérecquis sont annoncés au début de chaque étape.
 <details>
 <summary><strong> Installation d'une VM client Ubuntu </strong></summary>
 <HR>
+
+### Prérecquis
+
+- Avoir [VirtualBox](https://www.virtualbox.org/) d'installer sur la machine
+
+- Avoir un ISO [Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop) de télécharger sur la machine
+
+<HR>
   
   * Choisir l'OS et la version souhaitée.
  
@@ -67,6 +75,13 @@ Les prérecquis sont annoncés au début de chaque étape.
 <details>
   <summary><strong>Configuration de la VM serveur Windows</strong></summary>
 <HR>
+  
+### Prérecquis
+
+- Avoir [VirtualBox](https://www.virtualbox.org/) d'installer sur votre machine
+
+- Avoir un ISO [serveur windows 2022](https://www.microsoft.com/fr-fr/evalcenter/download-windows-server-2022) de télécharger sur votre machine
+  <HR>
   
 ### Configuration de l'IP
 
