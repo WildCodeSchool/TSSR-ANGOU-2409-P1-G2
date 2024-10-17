@@ -1,11 +1,16 @@
 <div align="center"><h1>Documentation administrateur</h1></div>
-<details><summary>Prérecquis</summary>
+
+### *Prérecquis techniques*
 
 Les prérecquis sont annoncés au début de chaque étape.
 
-</details>
+--- 
+<HR>
+
+
 
 ### *Installation des postes*
+<HR>
 <details>
 <summary><strong> Installation d'une VM client Ubuntu </strong></summary>
 <HR>
@@ -58,7 +63,7 @@ Les prérecquis sont annoncés au début de chaque étape.
 
     
 </details>
-
+<HR>
 <details>
   <summary><strong>Configuration de la VM serveur Windows</strong></summary>
 <HR>
@@ -117,6 +122,8 @@ __Redémarrer la machine et c'est terminé !__
 <HR> 
 </details>
 
+<HR>
+
 <details><summary><strong>Connection du client au serveur</strong></summary>
 <HR>
   
@@ -153,6 +160,17 @@ Une fois Samba d'installer, tentons de nous connecter au serveur.
 ![connec](https://i.imgur.com/KN0Xqz3.png)
 
 - Nous voilà connecter au serveur et avons l'accès aux fichiers !
+</details>
+<HR>
 
-### *Chiffrer un fichier zippé*
-
+### *Chiffrer un fichier zippé, l'extraire et récupérer le mot de passe*
+<HR>
+<details>
+  <summary><strong>Création du fichier zippé</strong></summary>
+  
+</details>
+<HR>
+<details>
+  <summary><strong>Récupérer le fichier sur le serveur</strong></summary>
+  </details>
+  <HR>
