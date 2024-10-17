@@ -27,6 +27,8 @@
 - Récupérer un fichier zippé chiffré sur le serveur
   
 - Tester la robustesse du mot de passe à l'aide d'une attaque par dictionnaire
+
+- Documenter les actions réalisées, les problèmes rencontrés et les solutions apportées le cas échéant.
  
 
 </details>
