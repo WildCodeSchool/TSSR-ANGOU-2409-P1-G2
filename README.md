@@ -16,6 +16,7 @@
 | __Scrum Master__ | *Théophile* | *Bastien* | *Tristan* |
 | __Techos__ | *Bastien* | *Tristan* | *Théophile* |
 
+<HR>
 <details>
   
 <summary><strong><front size="+5">Présentation du projet et objectifs</front></strong></summary>
