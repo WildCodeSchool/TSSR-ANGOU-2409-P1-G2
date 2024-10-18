@@ -111,6 +111,7 @@ Nous utiliserons le logiciel John the Ripper ou Hashcat pour le craquage de mot 
 Nous avons tenté de se connecter par SSH sur le serveur windows avec un client Ubuntu sans succès. La communication était possible mais la connection refusée par les ports de Windows malgré la désactivation du Pare-Feu. 
 
 Lors du choix de notre logiciel, nous avons essayé d'utiliser les 2 afin d'avoir une vue d'ensemble des fonctionnalités de l'un comme de l'autre. Malheureusement, il nous est impossible d'utiliser John the Ripper pour l'instant. L'addition du processeur AVX512 n'est pas supporter via la VM.
+
 Concernant Hashcat, nous n'arrivons pas encore à lancer une attaque par dictionnaire car le character set n'est pas supporter pour ce type d'attaque (notre base de données de mots).
 
 | Problèmes rencontrés | Solutions apportées |
