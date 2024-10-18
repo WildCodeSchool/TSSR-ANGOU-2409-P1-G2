@@ -64,6 +64,8 @@
 
 - Semaine 2 
 
+- Les objectifs de cette semaine sont d'avoir un serveur fonctionnel et de connecter le client dessus ainsi que de documenter ces actions réalisées.
+
 | Tâches | Réalisation | Description |
 | :-: | :-: | :-: |
 | Création du serveur de fichier | Fait | Serveur fonctionnel |
