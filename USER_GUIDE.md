@@ -31,6 +31,20 @@ Hashcat offre une gamme impressionnante de fonctionnalités qui en font un outil
 * Personnalisation: Options avancées pour personnaliser les attaques en fonction des besoins spécifiques.
 
 </details>
+<HR>
+<details>
+<summary><strong> Utilisation des options avancées de John the Ripper</strong></summary>
+
+</details>
+<HR>
+<details>
+<summary><strong> Utilisation des options avancées de Hashcat</strong></summary>
+</details>
+<HR>
+<details>
+<summary><strong>FAQ</strong></summary>
+  
+</details>
 
 
 
