@@ -189,3 +189,6 @@ Une fois Samba d'installer, tentons de nous connecter au serveur.
   <summary><strong>Récupérer le fichier sur le serveur</strong></summary>
   </details>
   <HR>
+
+
+## FAQ - Vos questions techniques, nos réponses
