@@ -67,7 +67,7 @@
 | :-: | :-: | :-: |
 | Création du serveur de fichier | Fait | Serveur fonctionnel |
 | Squelette de la documentation utilisateur | Fait | Squelette établi |
-| Connection de la VM au serveur | Fait | Partage de fichier entre les deux VM |
+| Connection du client au serveur | Fait | Partage de fichier entre les deux VM |
 | Continuité des documentations | Fait | Documentation à jour des avancées techniques |
 
 
