@@ -91,7 +91,7 @@
 
 Nous avons utilisé un serveur windows 2022 avec des clients Linux Ubuntu 24.04 LTS
 
-Nous utiliserons le logiciel John the Ripper pour le craquage de mot de passe.
+Nous utiliserons le logiciel John the Ripper ou Hashcat pour le craquage de mot de passe.
 
 <details><summary><strong>John The ripper c'est quoi ?</strong></summary>
   
