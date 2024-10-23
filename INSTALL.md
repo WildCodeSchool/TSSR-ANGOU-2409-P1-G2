@@ -2,9 +2,13 @@
 
 ### *Prérecquis techniques*
 
-Les prérecquis sont annoncés au début de chaque étape.
+- Avoir une connection privée
+- 16 go de ram pour une machine ou 8 go pour 2 machines (Performances recommandées)
+- Processeur avec 4 coeurs (Performances minimales)
+- Avoir [VirtualBox](https://www.virtualbox.org/)
+- Avoir un ISO [Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop)
+- Avoir un ISO [serveur windows 2022](https://www.microsoft.com/fr-fr/evalcenter/download-windows-server-2022)
 
---- 
 <HR>
 
 
