@@ -186,7 +186,8 @@ Une fois Samba d'installer, tentons de nous connecter au serveur.
 <HR>
 <details>
   <summary><strong>Création du fichier zippé</strong></summary>
-  
+  ![A] https://i.imgur.com/qoqdKBB.png
+
 </details>
 <HR>
 <details>
