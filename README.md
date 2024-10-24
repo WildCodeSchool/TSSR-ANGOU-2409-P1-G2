@@ -80,6 +80,10 @@
 
 | Tâches | Réalisation | Description |
 | :-: | :-: | :-: |
+| Installation JTR et Hashcat | Fait | Logiciels fonctionnels |
+| Création du Fichier zippé sur le serveur | Fait | Fichier protégé |
+| Récupération du mot de passe du fichier zippé | Fait | Mort de passe récupéré |
+| Finalisation de la doc | |
 
 
 </details>
@@ -91,7 +95,7 @@
 
 Nous avons utilisé un serveur windows 2022 avec des clients Linux Ubuntu 24.04 LTS
 
-Nous utiliserons le logiciel John the Ripper ou Hashcat pour le craquage de mot de passe.
+Nous utiliserons le logiciel John the Ripper et Hashcat pour le craquage de mot de passe.
 
 <details><summary><strong>John The ripper c'est quoi ?</strong></summary>
   
@@ -113,6 +117,7 @@ Nous avons tenté de se connecter par SSH sur le serveur windows avec un client 
 Lors du choix de notre logiciel, nous avons essayé d'utiliser les 2 afin d'avoir une vue d'ensemble des fonctionnalités de l'un comme de l'autre. Malheureusement, il nous est impossible d'utiliser John the Ripper pour l'instant. L'addition du processeur AVX512 n'est pas supporter via la VM.
 
 Concernant Hashcat, nous n'arrivons pas encore à lancer une attaque par dictionnaire car le character set n'est pas supporter pour ce type d'attaque (notre base de données de mots).
+Ce problème était dû au fait que nous tentions sur un fichier autre qu'un "hash". Désormais, nous combinons JTR avec HashCat afin de récupérer le fichier "hash" d'un zip avec le premier puis récupérer le mot de passe chiffrer dans ce hash avec le second.
 
 | Problèmes rencontrés | Solutions apportées |
 | :-: |:-:   |
