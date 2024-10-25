@@ -85,6 +85,7 @@
 | Récupération du mot de passe du fichier zippé | Fait | Mort de passe récupéré |
 | Finalisation de la doc | |
 
+![miro](https://i.imgur.com/Kon2441.png)
 
 </details>
 
