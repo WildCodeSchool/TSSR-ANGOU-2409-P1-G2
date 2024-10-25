@@ -123,12 +123,14 @@ Ce problème était dû au fait que nous tentions sur un fichier autre qu'un "ha
 | :-: |:-:   |
 | - CRTL+ALT+SUPPR sur une VM windows serveur | - Menu "Entrée" puis "Executer CTRL+ALT+SUPPR" | 
 | - Connection par SSH sur serveur windows avec client Ubuntu impossible | - Connection en partage de fichiers SAMBA|
+| - Craquage de mot de passe avec JTR ou Hashcat | Utilisation des 2 outils en même temps |
 
 
 ## *__Suggestions d'amélioratons__*
 
+- Précisez que l'utilisation d'un logiciel sans l'autre est très complexe et comporte encore des bugs non corrigés, connu depuis longtemps.
 
-
+- Le nom du sujet n'est pas en adéquation avec son contenu, il ne s'agit pas de sécuriser un mot de passe mais de le craquer.
 
 
 
