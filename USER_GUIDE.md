@@ -45,6 +45,28 @@ Hashcat offre une gamme impressionnante de fonctionnalités qui en font un outil
 <details>
 <summary><strong> Utilisation de John the Ripper et Hashcat ensemble</strong></summary>
 
+- Taper la commande ```zip2john nomdufichier > fichier hash```
+
+
+![zipjohn](https://i.imgur.com/qoqdKBB.png)
+
+- Le hash extrait, il faut l'isoler dans le fichier. C'est parti pour le modifier
+
+![modifhash](https://i.imgur.com/e9a1SOh.png)
+
+- Enlever les 2 parties du fichier ci-dessous
+
+![hash](https://i.imgur.com/JhtPWNu.png)
+![hash](https://i.imgur.com/BCorKIQ.png)
+
+- Lançons une attaque avec hashcat. ```hashcat -a 0 -m 17200 fichierhash dictionnaire```
+
+![atk](https://i.imgur.com/aRTc6Jm.png)
+
+- Le résultat est rapide. Nous avons le nombre de mots testés par rapport à la liste ainsi que le mot de passe déchiffrer écrit après le hash.
+
+![result](https://i.imgur.com/ob37GNY.png)
+  
 </details>
 <HR>
 
