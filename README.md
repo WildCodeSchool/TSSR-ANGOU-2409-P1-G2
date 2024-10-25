@@ -83,7 +83,7 @@
 | Installation JTR et Hashcat | Fait | Logiciels fonctionnels |
 | Création du Fichier zippé sur le serveur | Fait | Fichier protégé |
 | Récupération du mot de passe du fichier zippé | Fait | Mort de passe récupéré |
-| Finalisation de la doc | |
+| Finalisation de la doc | Fait | Documentation terminée |
 
 ![miro](https://i.imgur.com/Kon2441.png)
 
