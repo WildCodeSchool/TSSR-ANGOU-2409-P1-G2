@@ -185,7 +185,7 @@ Une fois Samba d'installer, tentons de nous connecter au serveur.
 ### *Chiffrer un fichier zippé, l'extraire et récupérer le mot de passe*
 <HR>
 <details>
-  <summary><strong>Création du fichier zippé</strong></summary>
+  <summary><strong>Création du fichier zippé et l'extraire vers le client</strong></summary>
 
   ### Prérecquis
   
@@ -211,17 +211,7 @@ Une fois Samba d'installer, tentons de nous connecter au serveur.
 
 </details>
 <HR>
-<details>
-  <summary><strong>Récupérer le fichier sur le serveur</strong></summary>
-  
 
-
-
-
-
-
-</details>
-  <HR>
 
 
 ## FAQ - Vos questions techniques, nos réponses
