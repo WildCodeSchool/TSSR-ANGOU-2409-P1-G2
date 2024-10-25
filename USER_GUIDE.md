@@ -1,9 +1,9 @@
 # Documentation utilisateur
 <details>
-<summary><strong> Utilisation des fonctionnalités clés de John the Ripper</strong></summary>
-  
-### Fonctionnalités Clés de John the Ripper
-  
+<summary><strong> Qu'est ce que John The Ripper ?</strong></summary>
+
+### Fonctionnalités clés de John The Ripper
+
  John the Ripper possède plusieurs fonctionnalités qui le distinguent des autres outils de craquage de mots de passe 
 
 * Prise en charge de nombreux formats de hachage de mots de passe.
@@ -16,7 +16,7 @@
 </details>
 <HR>
 <details>
-  <summary><strong> Utilisation des fonctionnalités clés de Hashcat</strong></summary>
+  <summary><strong> Qu'est ce que Hashcat ?</strong></summary>
   
 ### Fonctionnalités Clés de Hashcat
 
@@ -33,21 +33,18 @@ Hashcat offre une gamme impressionnante de fonctionnalités qui en font un outil
 </details>
 <HR>
 <details>
-<summary><strong> Utilisation des options avancées de John the Ripper</strong></summary>
-
-
-  ![johntheripper](https://i.imgur.com/qoqdKBB.png)
-
+<summary><strong> Utilisation de John the Ripper et Hashcat ensemble</strong></summary>
 
 </details>
 <HR>
-<details>
-<summary><strong> Utilisation des options avancées de Hashcat</strong></summary>
-</details>
-<HR>
+
 
 ## FAQ - Vos questions, nos réponses
 
+__J'ai le message "AVX is recquired for this build" lorsque je veux utiliser John the Ripper, pourquoi ?__
 
+- *Un problème connu est l'utilisation de John The Ripper sur un OS virtualisé avec Windows 11. Ce problème provient des processeurs INTEL avec la virtualisation. Aucune solution n'a été encore trouvée à ce sujet.*
 
+__Pourquoi je ne peux pas lire mon fichier zip avec Hashcat ?__
 
+- *Hashcat permet de lire le "hash" d'un fichier et non le fichier zip en lui même. Pour ce faire, il faut d'abord extraire le hash afin de le lire avec Hashcat. L'utilisation de John The Ripper est recomandé pour une extraction rapide et complète du "hash".*
