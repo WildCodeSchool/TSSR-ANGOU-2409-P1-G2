@@ -97,19 +97,6 @@ Nous avons utilisé un serveur windows 2022 avec des clients Linux Ubuntu 24.04 
 
 Nous utiliserons le logiciel John the Ripper et Hashcat pour le craquage de mot de passe.
 
-<details><summary><strong>John The ripper c'est quoi ?</strong></summary>
-  
-- JohnTheRipper est un outil de "cracking" de mots de passe, prenant en charge de nombreux algorithmes de "hash". La version "-jumbo" est une amélioration de cet outil, et permet, entre autres, de récupérer le "hash" des fichiers .zip
-  
--  Mode "simple" : L'outil effectue quelques modifications sur le nom d'utilisateur afin de trouver le mot passe (Par exemple, si l'utilisateur s'appelle Wilder, l'outil essaierait les mots de passe "Wilder", "wilder123", "WiLdeR123', etc ...). Ce mode étant le plus rapide à effectuer, le mot de passe qui serait trouvé avec cette méthode serait un mauvais mot de passe.
-  
-
-- Mode incrémental (Ou attaque "brute force"): Dans ce mode, l'outil va essayer toutes les combinaisons de caractères possibles jusqu'à trouver le bon mot de passe. Cette technique est techniquement infaillible, bien que la robustesse du mot de passe influe grandement sur le temps de calcul nécessaire à le trouver. Afin d'augmenter la pertincence de l'algorithme, l'outil va implémenter la recherche des caractères par fréquence d'utilisation, pour rechercher en priorité les caractères les plus utilisés statistiquement.
-  
-
-- Attaque par dictionnaire : L'outil essaiera un à un tous les mots contenus dans une liste préalablement chargée (Par défault, la liste password.lst fournie contiens plus de 3000 mots), en leur appliquant les mêmes modifications que dans le mode "simple".
-</details>
-
 ## *__Tests réalisés__*
 
 Nous avons tenté de se connecter par SSH sur le serveur windows avec un client Ubuntu sans succès. La communication était possible mais la connection refusée par les ports de Windows malgré la désactivation du Pare-Feu. 
