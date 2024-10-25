@@ -35,6 +35,7 @@ Hashcat offre une gamme impressionnante de fonctionnalités qui en font un outil
 <details>
 <summary><strong> Utilisation des options avancées de John the Ripper</strong></summary>
 
+
   ![johntheripper](https://i.imgur.com/qoqdKBB.png)
 
 
