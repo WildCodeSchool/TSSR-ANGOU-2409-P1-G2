@@ -186,13 +186,41 @@ Une fois Samba d'installer, tentons de nous connecter au serveur.
 <HR>
 <details>
   <summary><strong>Création du fichier zippé</strong></summary>
+
+  ### Prérecquis
   
+  - Avoir l'extension 7zip d'installer sur le serveur
+
+    <HR>
+
+    - Créer un dossier classique, puis clique droit dessus et sélectionné *7-Zip* -> *ajouter à l'archive*
+
+    ![7z](https://i.imgur.com/1gUJsws.png)
+    ![7z](https://i.imgur.com/01HG44K.png)
+    
+    - Nommer le dossier, choisir le *format zip*
+
+    ![zip](https://i.imgur.com/2QVzEwt.png)
+    ![zip](https://i.imgur.com/wFDXsYu.png)
+
+    - Entrer le mot de passe
+   
+    ![mdp](https://i.imgur.com/flajN1w.png)
+
+    - Appuyer sur *OK* et le dossier zippé est chiffré !
 
 </details>
 <HR>
 <details>
   <summary><strong>Récupérer le fichier sur le serveur</strong></summary>
-  </details>
+  
+
+
+
+
+
+
+</details>
   <HR>
 
 
